@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "ice-cream-crop-executor",
+    "name": "ice-cream-crop",
+    "region": "ap-south-1"
+  },
+  "api": {
+    "id": "y4qmfjnd40",
+    "module": "index"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ice-cream-crop",
+  "version": "1.0.0",
+  "description": "ice cream shop app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinreddy3/ice-cream-shop.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/nitinreddy3/ice-cream-shop/issues"
+  },
+  "homepage": "https://github.com/nitinreddy3/ice-cream-shop#readme",
+  "dependencies": {
+    "aws-sdk": "^2.233.1",
+    "claudia-api-builder": "^4.0.0"
+  }
+}
